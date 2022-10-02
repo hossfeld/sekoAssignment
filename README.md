@@ -28,3 +28,10 @@ Files:
 * input.xlsx : input file of student requests to seminar
 * output.xlsx : output file of the SEKO assignment
 * moduleSEKO.py : Python module implementing the MIPs and SEKO
+
+## Folder ['generateLargeDataSet'](./generateLargeDataSet/)
+For the analysis of the scalability of the assignment strategies, larger data sets are generated based on a real world data set. The model and its implementation is provided as Jupyter notebook, which illustrates the characteristics of the generated data sets.
+
+Files:
+* generateLargeDataSet.ipynb : Jupyter notebook to generate large data sets 
+* generateLargeDataSet.html : static HTML output of the Jupyter notebook
